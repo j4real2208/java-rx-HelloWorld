@@ -19,7 +19,7 @@ public class CreateObservable {
                 }
         );
         source.subscribe(System.out::println);
-        System.out.println("**********************");
+        System.out.println("****************************************************************************************");
 
         //just() method
 
